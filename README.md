@@ -47,7 +47,7 @@ Cup: 12 oz. Coffee Mug
 Ratio: 2 oz. drip coffee or espresso + 4 oz. of ice + 4-6 oz of milk or water + flavoring syrup to taste
 Cup: 14 oz. Mixing Glass
 
-![Mocha](https://www.runningwithspoons.com/wp-content/uploads/2017/09/Mocha-Overnight-Oatmeal-Smoothie.jpg)
+![Mocha](https://food-images.files.bbci.co.uk/food/recipes/the_perfect_mocha_coffee_29100_16x9.jpg)
 
 
 
