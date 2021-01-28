@@ -33,7 +33,7 @@ Cup: 6-8 oz. Cappuccino Mug
 Ratio: 1 shot of espresso + 3 oz. of hot water
 Cup: 5-6 oz. Glass Coffee Mug
 
-![Americano](https://www.supermama.me/system/App/Entities/Recipe/images/000/107/205/watermarked/%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7%D9%86-%D9%83%D9%88%D9%81%D9%8A.jpg)
+![Americano](https://www.irishtimes.com/polopoly_fs/1.4029828.1569402836!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg)
 
 4. Cafe au Lait: The cafe au lait is typically made with French press coffee instead of an espresso shot to bring out the different flavors in the coffee. It is then paired with scalded milk instead of steamed milk and poured at a 50/50 ratio.
 
