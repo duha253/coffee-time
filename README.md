@@ -40,7 +40,7 @@ Cup: 5-6 oz. Glass Coffee Mug
 Ratio: 5 oz. French press coffee + 5 oz. scalded milk
 Cup: 12 oz. Coffee Mug
 
-![Cafe au Lait](https://previews.123rf.com/images/jeafish/jeafish1709/jeafish170900035/85605027-coffee-with-milk-known-as-latte-or-cafe-au-lait-in-white-cup-drink-with-breakfast-in-morning-time.jpg)
+![Cafe au Lait](https://media-cdn.tripadvisor.com/media/photo-s/18/93/48/08/cafe-late.jpg)
 
 5. Mocha :Iced coffees become very popular in the summertime in the . The recipes do have some variance, with some locations choosing to interchange milk with water in the recipe. Often, different flavoring syrups will be added per the preference of the customer.
 
