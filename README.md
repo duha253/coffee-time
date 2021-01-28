@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+# _Coffee lovers_
+![coffee Time](https://prairievillagedentist.com/wp-content/uploads/2019/02/iu-1-1200x800.jpeg)
 
-You can use the [editor on GitHub](https://github.com/duha253/labe-5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## _Types of coffee we have_
+-Espresso
+-Cappuccino
+-Iced Coffee
+-Americano
+-Cafe au Lait
+-Mocha
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### _About our coffee_
+**Running to that fancy specialty store for the perfect coffee product seems like the most natural thing in the world, right? Well, not any more! You can buy all the best coffees and coffee related products online**
+
+1. Espresso: The espresso, also known as a short black, is approximately 1 oz. of highly concentrated coffee. Although simple in appearance, it can be difficult to master.
+
+Ratio: 1 shot of espresso
+Cup: 2-4 oz. Espresso Cup
 
 ```markdown
 Syntax highlighted code block
