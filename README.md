@@ -50,7 +50,16 @@ Cup: 14 oz. Mixing Glass
 ![Mocha](https://food-images.files.bbci.co.uk/food/recipes/the_perfect_mocha_coffee_29100_16x9.jpg)
 
 
-
-[Link](url) and ![Image](src)
-```
+## _Our Philosophy_
+ 
+Our philosophy is simple: we are building an interactive community for all Coffee Lovers. We want to connect great businesses to passionate consumers who are looking for the right coffee or coffee-related products. We treat our members and featured businesses with the utmost care and respect. Our primary motivation is to keep both customers and merchants happy and coming back to Lovers.Coffee every day.
+ We maintain and follow best business practices for a better user experience, and meticulously select quality sellers to ensure our customers receive consistent products that highlight the delicate nuances of each and every bean. 
+In a world that is full of huge coffee conglomerates, we stand apart as a voice dedicated to community building and focused on delivering fresh and complex coffee products from a true variety of quality, independent sources.
+ At Lovers.Coffee, we believe that great coffee can lead to great things. We donate a share of profits on all sales to organizations that advocate positive change, both in our communities and around the world.
+ In short, Lovers.coffee is a unique online marketplace whose vision is to create a globally reliable and frictionless e-commerce ecosystem that creates life-changing experiences for coffee buyers and sellers.
+ 
+ 
+ ![coffe lovers](https://cdn.shopify.com/s/files/1/0254/3173/6394/files/Slider-1.jpg?v=1562297416)
+ 
+### ```contact us 
 
