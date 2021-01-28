@@ -25,7 +25,7 @@ Cup: 2-4 oz. Espresso Cup
 Ratio: 1-2 shots of espresso + 2 oz. of steamed milk + 2 oz. of foamed milk + sprinkling of chocolate powder (optional)
 Cup: 6-8 oz. Cappuccino Mug
 
-![Cappuccino](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiaenQqLiFTLdTELLMp5VnBGpTz_Ep0CFDsg&usqp=CAU)
+![Cappuccino](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjybqyzyiIPKEmTHSw4matD0FynynLR34xNQ&usqp=CAU)
 
 
 3. Americano: Americanos are popular breakfast drinks and thought to have originated during World War II. Soldiers would add water to their coffee to extend their rations farther. The water dilutes the espresso while still maintaining a high level of caffeine.
